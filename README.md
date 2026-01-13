@@ -1,3 +1,5 @@
+Hello this is my second crypto project the first one I have forgotten what i want to do after a few month so now i just start up my new web 3 project 
+
 🥩 Staking Protocol (Solidity)
 
 A simple ERC-20 staking smart contract built with Solidity and Hardhat.
