@@ -1,3 +1,10 @@
+package com.crypto.staking_backend_java.service;
+
+import org.springframework.stereotype.Service;
+import org.springframework.beans.factory.annotation.Value;
+import org.web3j.protocol.Web3j;
+import org.web3j.protocol.http.HttpService;
+
 @Service
 public class Web3Service {
 
